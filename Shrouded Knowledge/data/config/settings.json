@@ -1,0 +1,8 @@
+{
+  "graphics": {
+    "shrouded_knowledge": {
+      "dweller": "graphics/dweller.png",
+      "progress_bar": "graphics/ui/progress_bar.png"
+    }
+  }
+}

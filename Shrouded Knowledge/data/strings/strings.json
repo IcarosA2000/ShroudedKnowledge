@@ -1,0 +1,32 @@
+{
+  "shrouded_knowledge": {
+    "intel_name": "Shrouded Knowledge",
+    "intel_title": "SHROUDED KNOWLEDGE",
+    "event_type": "MAJOR EVENT - UNKNOWN THREAT",
+    "intel_description": "Shroud manifestations appear to respond to your actions. Their behavior and true intentions remain unknown.",
+
+    "threat_level": "Threat Level",
+    "threat_progress": "THREAT PROGRESS",
+    "progress_complete": "%s%% complete",
+
+    "threat_milestones": "Threat Milestones",
+    "first_milestone": "%s - First Manifestation",
+    "dweller_milestone": "%s - Shrouded Dweller Expedition",
+
+    "status_deployed": "STATUS: PRECURSORS DEPLOYED",
+    "description_deployed": "The Shroud Precursor fleets have arrived in the Sector and begun their pursuit.",
+
+    "status_preparation": "STATUS: PREPARATION IN PROGRESS",
+    "description_preparation": "The Shroud Precursors have locked onto your position. The countdown to their arrival has begun.",
+
+    "status_pending": "STATUS: PENDING",
+    "description_first_pending": "Reaching 150 points will trigger preparations for the first manifestation.",
+
+    "status_expedition_started": "STATUS: EXPEDITION LAUNCHED",
+    "description_expedition_started": "A Shrouded Dweller manifestation has begun its advance toward one of your colonies.",
+
+    "description_expedition_pending": "Reaching 300 points will trigger a Shrouded Dweller expedition. A much greater threat will enter the Sector.",
+
+    "final_note": "The available information is incomplete. Shroud manifestations appear to respond to your actions."
+  }
+}
